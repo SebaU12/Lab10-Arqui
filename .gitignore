@@ -1,0 +1,11 @@
+# Go build and test artifacts
+/tail-latency-poc
+*.test
+*.out
+
+# Local experiment runs
+/run-results*/
+
+# Editor and operating-system files
+.DS_Store
+*.swp
